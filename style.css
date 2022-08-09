@@ -1,0 +1,13 @@
+#board td {
+    width: 25px;
+    height: 25px;
+    border: solid 1px black;
+}
+
+.revealed {
+    background-color: lightgrey;
+}
+
+.flag {
+    background-color: red;
+}
